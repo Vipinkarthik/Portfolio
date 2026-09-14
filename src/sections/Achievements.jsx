@@ -4,7 +4,7 @@ import DecryptedText from '../components/DecryptedText';
 
 import sihPhoto from '../assets/events/sih1.jpeg';
 import infyndPhoto from '../assets/events/infynd1.jpeg';
-import codesprintPhoto from '../assets/events/Codesprint25.jpeg';
+import codesprintPhoto from '../assets/events/codesprint-2025.jpeg';
 import sairamPhoto from '../assets/events/sairam1.jpeg';
 
 const PATENTS = [
